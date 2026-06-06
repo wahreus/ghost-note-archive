@@ -18,6 +18,6 @@ Groove A is originally played as an open-handed groove without the ghost notes, 
 <img src="figures/the_meters-cissy_strut-b1.svg">
 <img src="figures/the_meters-cissy_strut-b2.svg">
 
-Groove B has a call-and-response feel. Vary the snare and kick placements over beats 1–3, but keep the hi-hat pattern and beat 4 the same.
+Groove B has a call-and-response feel. Vary the snare and kick placements over beats 1–3, but keep the hi-hat accent pattern and beat 4 the same.
 
 <br>
