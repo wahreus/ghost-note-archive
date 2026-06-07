@@ -14,10 +14,12 @@ Feel: Swung 16ths
 
 Groove A is originally played as an open-handed groove without the ghost notes, but they have been added here for extra texture.
 
->**Groove B** [[MIDI-1](https://gscribe.com/share/D2eSFUsg5Qi6i66N9), [MIDI-2](https://gscribe.com/share/3mrTZQ39iAJ8scFs6)]
+>**Groove B** [[MIDI-1](https://gscribe.com/share/D2eSFUsg5Qi6i66N9), [MIDI-2](https://gscribe.com/share/3mrTZQ39iAJ8scFs6), [MIDI-3](https://gscribe.com/share/kbaGPtHWs6PqJG6i6), [MIDI-4](https://gscribe.com/share/ReeaFSoPL7Vhk3837)]
 <img src="figures/the_meters-cissy_strut-b1.svg">
 <img src="figures/the_meters-cissy_strut-b2.svg">
+<img src="figures/the_meters-cissy_strut-b3.svg">
+<img src="figures/the_meters-cissy_strut-b4.svg">
 
-Groove B has a call-and-response feel. Vary the snare and kick placements over beats 1–3, but keep the hi-hat accent pattern and beat 4 the same.
+Groove B has a call-and-response feel. Practice varying the snare and kick placements over beats 1–3, but keep the hi-hat accent pattern and beat 4 the same.
 
 <br>
