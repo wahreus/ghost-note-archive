@@ -6,8 +6,8 @@ A personal archive of drum notation and practice notes, built for easy access.
 >**Audio**:
 [Spotify](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb?si=64aeae497fde42e3), [YouTube](https://www.youtube.com/watch?v=oFYBRtV002s&list=RDoFYBRtV002s&start_radio=1)
 
-Tempo: ♩= 88 BPM<br>
-Feel: Swung 16ths
+**Tempo**: ♩= 88 BPM<br>
+**Feel**: Swung 16ths
 
 >**Groove A** [[MIDI](https://gscribe.com/share/WrL6ouwCQQ3v341LA)]
 <img src="figures/the_meters-cissy_strut-a.svg">
