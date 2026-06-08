@@ -44,7 +44,8 @@
 <path class="stroke" d="m436.26 63.04v-31.20"/>
 <use x="432.76" y="63.04" xlink:href="#hd"/>
 <rect style="fill: transparent;" class="abcr" id="abcNoteNum_1_6" x="426.26" y="45.04" width="13.00" height="42.00"/>
-<path class="stroke" d="m490.40 63.04v-31.20"/>
+<path class="stroke" d="m490.40 75.04v-43.20"/>
+<use x="486.90" y="75.04" xlink:href="#hd"/>
 <use x="486.90" y="63.04" xlink:href="#hd"/>
 <rect style="fill: transparent;" class="abcr" id="abcNoteNum_1_7" x="480.40" y="45.04" width="13.00" height="42.00"/>
 <path class="stroke" d="m544.53 51.04v-19.20"/>
