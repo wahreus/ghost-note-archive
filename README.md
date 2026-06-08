@@ -9,17 +9,11 @@ A personal archive of drum notation and practice notes, built for easy access.
 **Tempo**: ♩= 88 BPM<br>
 **Feel**: Swung 16ths
 
->**Groove A** [[MIDI](https://gscribe.com/share/WrL6ouwCQQ3v341LA)]
+>**Groove A** [[MIDI](https://gscribe.com/share/5ehG5PhU1GCJJSPeA)]
 <img src="figures/the_meters-cissy_strut-a.svg">
 
-Groove A is originally played as an open-handed groove without the ghost notes, but they have been added here for extra texture.
-
->**Groove B** [[MIDI-1](https://gscribe.com/share/D2eSFUsg5Qi6i66N9), [MIDI-2](https://gscribe.com/share/3mrTZQ39iAJ8scFs6), [MIDI-3](https://gscribe.com/share/kbaGPtHWs6PqJG6i6), [MIDI-4](https://gscribe.com/share/ReeaFSoPL7Vhk3837)]
+>**Groove B** [[MIDI-1](https://gscribe.com/share/ygB9uKKRSV5RSrVeA), [MIDI-2](https://gscribe.com/share/DhFC3u26xyBBeGMz7), [MIDI-3](https://gscribe.com/share/SuUsCVjGLkD8JAMc6), [MIDI-4](https://gscribe.com/share/11Dd2QgToMLYVZPW8)]
 <img src="figures/the_meters-cissy_strut-b1.svg">
 <img src="figures/the_meters-cissy_strut-b2.svg">
 <img src="figures/the_meters-cissy_strut-b3.svg">
 <img src="figures/the_meters-cissy_strut-b4.svg">
-
-Groove B has a call-and-response feel. Practice varying the snare and kick placements over beats 1–3, but keep the hi-hat accent pattern and beat 4 the same.
-
-<br>
