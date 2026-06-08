@@ -9,12 +9,12 @@ A personal archive of drum notation and practice notes, built for easy access.
 **Tempo**: ♩= 88 BPM<br>
 **Feel**: Swung 16ths
 
->**Section A**
+**Section A**
 <a href="https://gscribe.com/share/5ehG5PhU1GCJJSPeA">
   <img src="figures/the_meters-cissy_strut-a.svg">
 </a>
 
->**Section B**
+**Section B**
 <a href="https://gscribe.com/share/ygB9uKKRSV5RSrVeA">
   <img src="figures/the_meters-cissy_strut-b1.svg">
 </a>
