@@ -14,7 +14,7 @@ A personal archive of drum notation and practice notes, built for easy access.
   <img src="figures/the_meters-cissy_strut-a.svg">
 </a>
 
->**Section B**<br>
+>**Section B**
 <a href="https://gscribe.com/share/ygB9uKKRSV5RSrVeA">
   <img src="figures/the_meters-cissy_strut-b1.svg">
 </a>
