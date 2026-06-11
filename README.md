@@ -8,6 +8,6 @@ A personal archive of drum notation and practice notes, built for easy access.
 **Tempo**: ♩= 88 BPM<br>
 **Feel**: Swung 16ths
 
-<a href="https://gscribe.com/share/JHeK7APJbCwDKgqX8">
+<a href="https://gscribe.com/share/ytuhYg7MZ1Yk2fyh9">
   <img src="figures/the_meters-cissy_strut.svg">
 </a>
