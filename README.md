@@ -12,6 +12,16 @@ A personal archive of drum notation and practice notes, built for easy access.
   <img src="figures/the_meters-cissy_strut.svg">
 </a>
 
+## **"Jungle Man"** | The Meters
+>**Audio**:
+[Spotify](https://open.spotify.com/track/0JrO5FNSmIdXBvQLKXtblS?si=883e53a0219a4f36), [YouTube](https://www.youtube.com/watch?v=HpIvgdmjuOw&list=RDHpIvgdmjuOw&start_radio=1)<br>
+**Tempo**: ♩= 89 BPM<br>
+**Note**: Half-swung 16ths.
+
+<a href="https://gscribe.com/share/vfLsmoJACYXojRqt5">
+  <img src="figures/the_meters-jungle_man.svg">
+</a>
+
 ## **"Superstition"** | Stevie Wonder
 >**Audio**:
 [Spotify](https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ?si=42bfb2b725f34b6a), [YouTube](https://www.youtube.com/watch?v=ftdZ363R9kQ&list=RDftdZ363R9kQ&start_radio=1)<br>
