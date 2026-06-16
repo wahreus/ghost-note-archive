@@ -18,7 +18,7 @@ A personal archive of drum notation and practice notes, built for easy access.
 **Tempo**: ♩= 89 BPM<br>
 **Note**: Half-swung 16ths.
 
-<a href="https://gscribe.com/share/vfLsmoJACYXojRqt5">
+<a href="https://gscribe.com/share/aQJTr3oYEK25NdBh7">
   <img src="figures/the_meters-jungle_man.svg">
 </a>
 
