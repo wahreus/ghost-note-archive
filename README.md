@@ -6,9 +6,9 @@ A personal archive of drum notation and practice notes, built for easy access.
 >**Audio**:
 [Spotify](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb?si=64aeae497fde42e3), [YouTube](https://www.youtube.com/watch?v=oFYBRtV002s&list=RDoFYBRtV002s&start_radio=1)<br>
 **Tempo**: ♩= 88 BPM<br>
-**Note**: Swung 16ths.
+**Note**: Swung 16ths, semi-open hi-hat at the end of beat two.
 
-<a href="https://gscribe.com/share/ytuhYg7MZ1Yk2fyh9">
+<a href="https://gscribe.com/share/Aiwm9emQj8sghBXr5">
   <img src="figures/the_meters-cissy_strut.svg">
 </a>
 
