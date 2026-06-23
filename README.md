@@ -2,42 +2,35 @@
 
 A personal archive of drum notation and practice notes, built for easy access.
 
-## **"Cissy Strut"** | The Meters
->**Audio**:
-[Spotify](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb?si=64aeae497fde42e3), [YouTube](https://www.youtube.com/watch?v=oFYBRtV002s&list=RDoFYBRtV002s&start_radio=1)<br>
-**Tempo**: ♩= 88 BPM<br>
-**Note**: Swung 16ths, semi-open hi-hat at the end of beat two.
+## **"People of the Sun"** | Rage Against the Machine
+>**Album:** Evil Empire (1996)<br>
+>**Audio:**
+[Spotify](https://open.spotify.com/track/3QjQp2bfAvLTCSi8Zhzqis?si=5703649c868e4fbf), [YouTube](https://www.youtube.com/watch?v=scyC9A6o_Ts&list=RDscyC9A6o_Ts&start_radio=1)<br>
+**Tempo:** ♩= 94 BPM<br>
 
-<a href="https://gscribe.com/share/Aiwm9emQj8sghBXr5">
-  <img src="figures/the_meters-cissy_strut.svg">
+**Intro**
+<a href="https://gscribe.com/share/rHpyhAgV7cLLVy4u8">
+  <img src="figures/rage_against_the_machine-people_of_the_sun-1.svg">
 </a>
 
-## **"Jungle Man"** | The Meters
->**Audio**:
-[Spotify](https://open.spotify.com/track/0JrO5FNSmIdXBvQLKXtblS?si=883e53a0219a4f36), [YouTube](https://www.youtube.com/watch?v=HpIvgdmjuOw&list=RDHpIvgdmjuOw&start_radio=1)<br>
-**Tempo**: ♩= 89 BPM<br>
-**Note**: Half-swung 16ths.
-
-<a href="https://gscribe.com/share/aQJTr3oYEK25NdBh7">
-  <img src="figures/the_meters-jungle_man.svg">
+**Verse**
+<a href="https://gscribe.com/share/vrXiH3CFQ2KGqvfu8">
+  <img src="figures/rage_against_the_machine-people_of_the_sun-2.svg">
+</a>
+<a href="https://gscribe.com/share/NovmSHxznAJbGiKx6">
+  <img src="figures/rage_against_the_machine-people_of_the_sun-3.svg">
+</a>
+<a href="https://gscribe.com/share/vrXiH3CFQ2KGqvfu8">
+  <img src="figures/rage_against_the_machine-people_of_the_sun-2.svg">
+</a>
+<a href="https://gscribe.com/share/XRz7MSTQa2YdbL4s9">
+  <img src="figures/rage_against_the_machine-people_of_the_sun-4.svg">
 </a>
 
-## **"Superstition"** | Stevie Wonder
->**Audio**:
-[Spotify](https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ?si=42bfb2b725f34b6a), [YouTube](https://www.youtube.com/watch?v=ftdZ363R9kQ&list=RDftdZ363R9kQ&start_radio=1)<br>
-**Tempo**: ♩= 101 BPM<br>
-**Note**: Swung 16ths.
-
-<a href="https://gscribe.com/share/11Dsi46t86RNsez87">
-  <img src="figures/stevie_wonder-superstition.svg">
+**Chorus**
+<a href="https://gscribe.com/share/NCBcSYdm6QAmGUWP9">
+  <img src="figures/rage_against_the_machine-people_of_the_sun-5.svg">
 </a>
-
-## **"Higher Ground"** | Stevie Wonder
->**Audio**:
-[Spotify](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu?si=24e1936c6d394b47), [YouTube](https://www.youtube.com/watch?v=1esf0efHbjM&list=RD1esf0efHbjM&start_radio=1)<br>
-**Tempo**: ♩= 124 BPM<br>
-**Note**: Semi-open hi-hat on beat four.
-
-<a href="https://gscribe.com/share/SYe9MYWnDb2z9eew6">
-  <img src="figures/stevie_wonder-higher_ground.svg">
+<a href="https://gscribe.com/share/MiiFwk1zqB2PaHYh9">
+  <img src="figures/rage_against_the_machine-people_of_the_sun-6.svg">
 </a>
