@@ -36,9 +36,9 @@ A personal archive of drum notation and practice notes, built for easy access.
 </a>
 
 <ins>**Bridge**</ins>
-<a href="https://gscribe.com/share/6L8hamUtaSB7EU5z5">
+<a href="https://gscribe.com/share/WTCmYwk7t65xtRH4A">
   <img src="figures/rage_against_the_machine-people_of_the_sun-7.svg">
 </a>
-<a href="https://gscribe.com/share/5YuuWUERj8i7mtMs5">
+<a href="https://gscribe.com/share/nwb62GQcDtn7bomF8">
   <img src="figures/rage_against_the_machine-people_of_the_sun-8.svg">
 </a>
