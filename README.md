@@ -13,15 +13,12 @@ A personal archive of drum notation and practice notes, built for easy access.
   <img src="figures/rage_against_the_machine-people_of_the_sun-1.svg">
 </a>
 
-<ins>**Verse**</ins>
+<ins>**Verse (A-B-A-C)**</ins>
 <a href="https://gscribe.com/share/vrXiH3CFQ2KGqvfu8">
   <img src="figures/rage_against_the_machine-people_of_the_sun-2.svg">
 </a>
 <a href="https://gscribe.com/share/NovmSHxznAJbGiKx6">
   <img src="figures/rage_against_the_machine-people_of_the_sun-3.svg">
-</a>
-<a href="https://gscribe.com/share/vrXiH3CFQ2KGqvfu8">
-  <img src="figures/rage_against_the_machine-people_of_the_sun-2.svg">
 </a>
 <a href="https://gscribe.com/share/XRz7MSTQa2YdbL4s9">
   <img src="figures/rage_against_the_machine-people_of_the_sun-4.svg">
